@@ -1,0 +1,9 @@
+D:\WindowsCalci\OhmsApplication\OhmsApplication\bin\Debug\OhmsApplication.exe.config
+D:\WindowsCalci\OhmsApplication\OhmsApplication\bin\Debug\OhmsApplication.exe
+D:\WindowsCalci\OhmsApplication\OhmsApplication\bin\Debug\OhmsApplication.pdb
+D:\WindowsCalci\OhmsApplication\OhmsApplication\obj\Debug\OhmsApplication.csprojResolveAssemblyReference.cache
+D:\WindowsCalci\OhmsApplication\OhmsApplication\obj\Debug\OhmsApplication.Form1.resources
+D:\WindowsCalci\OhmsApplication\OhmsApplication\obj\Debug\OhmsApplication.Properties.Resources.resources
+D:\WindowsCalci\OhmsApplication\OhmsApplication\obj\Debug\OhmsApplication.csproj.GenerateResource.Cache
+D:\WindowsCalci\OhmsApplication\OhmsApplication\obj\Debug\OhmsApplication.exe
+D:\WindowsCalci\OhmsApplication\OhmsApplication\obj\Debug\OhmsApplication.pdb
